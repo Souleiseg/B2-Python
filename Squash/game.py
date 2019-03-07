@@ -84,7 +84,7 @@ while True:
         ball.dy *= -1
         winsound.PlaySound("bounce.wav", winsound.SND_ASYNC)
         pen.clear()
-        score_player += 10
+        score_player += 1
         if (score_player ==1 ):
             pen.write("Score - {} rebond".format(score_player), align="center", font=("Courier", 24, "normal"))
         elif (score_player > 1 and score_player < 10):
