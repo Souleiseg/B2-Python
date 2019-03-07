@@ -17,7 +17,7 @@ C'est un "Pierre-Papier-Ciseaux" sur terminal (Joueur VS IA).
 • Roulette<br/>
 Jeu de hasard sur terminal.
 
-<h2>[Avec interface graphique</h2><br />
+<h2>[Avec interface graphique]</h2><br />
 
 • Pong - 2 joueurs<br />
   Jeu classique réalisé à l'aide de turtle (interface graphique)
